@@ -63,20 +63,29 @@ I'm a passionate **Full-Stack Game Developer** specializing in **RedM/FiveM** de
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BigPapaBear2217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigPapaBear2217&layout=compact&langs_count=8&theme=tokyonight"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BigPapaBear2217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BigPapaBear2217&layout=compact&langs_count=8&theme=tokyonight&hide_border=false)
 
 </div>
 
+---
+
+## 🔥 Contribution Streak
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=BigPapaBear2217&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=BigPapaBear2217&theme=tokyonight&hide_border=false)
 
 </div>
 
+---
+
+## 📈 Activity Graph
+
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BigPapaBear2217&theme=tokyo-night&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BigPapaBear2217&theme=tokyo-night&hide_border=false&area=true)
 
 </div>
 
@@ -86,7 +95,7 @@ I'm a passionate **Full-Stack Game Developer** specializing in **RedM/FiveM** de
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=BigPapaBear2217&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![Trophy](https://github-profile-trophy.vercel.app/?username=BigPapaBear2217&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
 
 </div>
 
