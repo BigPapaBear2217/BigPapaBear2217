@@ -417,6 +417,9 @@ Optional dependencies:
 ## 👥 Who King Kong Works With
 
 ### Framework & Libraries
+- **Quantum Projects**
+- **Express Studio**
+- **HDRP**
 - **RSG Framework Team** - Core framework
 - **ox_lib Team** - UI components
 - **RedM Community** - Best practices
@@ -508,7 +511,7 @@ King Kong has created **7 production-ready, professional-grade scripts** for the
 
 ---
 
-**Made with ❤️ by King Kong for the RSG Framework RedM Community** 🤠
+**Made with ❤️ by King Kong for the RedM Community** 🤠
 
 **Portfolio Status:** Complete & Production Ready ✅
 **Quality Standard:** Professional Enterprise-Grade
