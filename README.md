@@ -20,7 +20,8 @@ I'm a passionate **Full-Stack Game Developer** specializing in **RedM/FiveM** de
 - 🔭 Currently working on: **Quantum Projects** & **KK-Scripts** (Kong Projects)
 - 🌱 Mastering: **React**, **Node.js**, **Lua 5.4**, and **Advanced Game Development**
 - 💡 Focus Areas: **RedM Script Development**, **Full-Stack Web Applications**, **Database Design**
-- 🎮 Specialization: **RSG Framework**, **ox_lib UI**, **oxmysql**, **Modern NUI Interfaces**
+- 🎮 Specialization: **ESX**, **VRP**, **QBOX**, **QB CORE**, **VORP**, **RSG Framework**,
+- 🎮 **ox_lib UI**, **oxmysql**, **Modern NUI Interfaces**
 - 🤝 Open to: **Collaboration**, **Code Reviews**, **Community Contributions**
 
 ---
