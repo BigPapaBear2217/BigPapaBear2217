@@ -263,7 +263,7 @@ Comprehensive law enforcement prisoner transport system for jail wagons.
 ```
 Total KK Scripts:        7 production-ready resources
 Total Features:          100+ major features
-Lines of Code:           15,000+ lines
+Lines of Code:           150,000+ lines
 Documentation Files:     100+ comprehensive guides
 Languages Supported:     5 languages (EN, ES, FR, IT, EL)
 Database Tables:         30+ tables created
@@ -485,7 +485,7 @@ All KK scripts are open source:
 
 **Developer:** King Kong (KK-Scripts)
 **Discord:** https://discord.gg/pbDSmkYCCS
-**Email:** suky2217@gmail.com
+**Email:** test221777@gmail.com
 
 **For Support:**
 - Check comprehensive documentation
@@ -499,7 +499,7 @@ All KK scripts are open source:
 
 King Kong has created **7 production-ready, professional-grade scripts** for the RSG Framework RedM community, totaling:
 
-- **15,000+ lines of code**
+- **150,000+ lines of code**
 - **100+ documentation files**
 - **30+ database tables**
 - **100+ major features**
