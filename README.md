@@ -4,7 +4,7 @@
 
 ### Full-Stack Game Developer | RedM Script Engineer | Open Source Contributor
 
-[![Email](https://img.shields.io/badge/Email-suky2217%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suky2217@gmail.com)
+[![Email](https://img.shields.io/badge/Email-suky2217%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:test221777@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pbDSmkYCCS)
 
 <img src="https://komarev.com/ghpvc/?username=BigPapaBear2217&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -297,7 +297,7 @@ Innovative tools and systems for RedM development and server management.
 
 I'm always open to collaborating on exciting projects, discussing game development, or helping with RedM/FiveM scripting!
 
-**📧 Email:** [suky2217@gmail.com](mailto:suky2217@gmail.com)
+**📧 Email:** [test221777@gmail.com](mailto:test221777@gmail.com)
 **💬 Discord:** [Join My Server](https://discord.gg/pbDSmkYCCS)
 
 ### Support My Work
