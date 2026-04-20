@@ -1,15 +1,10 @@
-<div align="center">
-
 # 👋 Welcome to King Kong's Developer Hub
 
 ### Full-Stack Game Developer | RedM Script Engineer | Open Source Contributor
 
 [![Email](https://img.shields.io/badge/Email-test221777%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:test221777@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pbDSmkYCCS)
-
 <img src="https://komarev.com/ghpvc/?username=BigPapaBear2217&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
-</div>
 
 ---
 
@@ -39,7 +34,7 @@ I'm a passionate **Full-Stack Game Developer** specializing in **RedM/FiveM** de
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 ### Game Development
 ![RedM](https://img.shields.io/badge/RedM-DC143C?style=for-the-badge&logo=rockstargames&logoColor=white)
@@ -54,136 +49,72 @@ I'm a passionate **Full-Stack Game Developer** specializing in **RedM/FiveM** de
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![ox_lib](https://img.shields.io/badge/ox__lib-6C5CE7?style=for-the-badge)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![ox_lib](https://img.shields.io/badge/ox_lib-6C5CE7?style=for-the-badge)
 ![oxmysql](https://img.shields.io/badge/oxmysql-00B4D8?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<a href="https://github.com/BigPapaBear2217">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BigPapaBear2217&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=86400" />
-</a>
-
-<a href="https://github.com/BigPapaBear2217">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BigPapaBear2217&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&cache_seconds=86400" />
-</a>
-
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BigPapaBear2217&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BigPapaBear2217&theme=radical)
 
 ---
 
 ## 🔥 Contribution Streak
 
-<div align="center">
-
-<a href="https://github.com/BigPapaBear2217">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BigPapaBear2217&theme=tokyonight&hide_border=false" />
-</a>
-
-</div>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=BigPapaBear2217&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<a href="https://github.com/BigPapaBear2217">
-  <img src="https://github-profile-trophy.vercel.app/?username=BigPapaBear2217&theme=tokyonight&no-frame=false&row=1&column=7" />
-</a>
-
-</div>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BigPapaBear2217&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎮 Kong Projects (KK-Scripts)
-Professional RedM scripts developed by King Kong for the RSG Framework community.
+### 🎮 KK-Scripts (Premium RedM Scripts)
 
-<table>
-<tr>
-<td width="50%">
+**Professional RedM scripts developed by King Kong for the RSG Framework community.**
 
-#### 🚓 KK-MDT
-**Modern Dispatch & Management System**
-- React-based modern UI
-- Criminal records management
-- Bounty alert system
-- Officer coordination tools
-- Database-driven architecture
+> 🛒 **Get all KK-Scripts on Tebex:** [https://kong-shop.tebex.io](https://kong-shop.tebex.io)
 
-*Tech: Lua, React, MySQL, ox_lib*
+| Script | Description | Tech |
+|--------|-------------|------|
+| 🚓 **KK-MDT** | Modern Dispatch & Management System | Lua, React, MySQL, ox_lib |
+| 🎨 **KK-Crafting** | Advanced Crafting & Production | Lua, React, oxmysql |
+| ⛅ **KK-Weather** | Dynamic Weather System | Lua, Native Functions |
+| 🚔 **KK-Jailwagon** | Prison Transport System | Lua, RSG Framework |
+| 🎯 **KK-HUD** | Custom HUD System | Lua, NUI |
+| 🍺 **KK-Moonshine** | Moonshine Production | Lua, ox_lib |
+| 🍳 **KK-Cooking** | Cooking System | Lua, ox_lib |
+| 🛡️ **KK-ArmorSystem** | Armor System for KK-HUD | Lua, ox_lib |
+| 🏥 **KK-Veterinary** | Veterinary System | Lua, ox_lib |
+| 🌦️ **KK-Weather** | Dynamic Weather System | Lua, Native Functions |
 
-</td>
-<td width="50%">
-
-#### 🎨 KK-Crafting
-**Advanced Crafting & Production**
-- Modern React UI interface
-- XP and leveling system
-- Multiple crafting stations
-- Queue management
-- NPC integration
-
-*Tech: Lua, React, oxmysql*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### ⛅ KK-Weather
-**Dynamic Weather System**
-- Real-time weather sync
-- Visual effects control
-- Temperature system
-- Job-based bonuses
-- HUD integration
-
-*Tech: Lua, Native Functions*
-
-</td>
-<td width="50%">
-
-#### 🚔 KK-Jailwagon
-**Prison Transport System**
-- Prisoner transport mechanics
-- Escort missions
-- Security protocols
-- Job integration
-
-*Tech: Lua, RSG Framework*
-
-</td>
-</tr>
-</table>
+**Why KK-Scripts?**
+- ✅ Production-ready code with comprehensive error handling
+- ✅ Modern React-based NUI interfaces
+- ✅ Database-driven architecture with optimized queries
+- ✅ Full documentation and setup guides
+- ✅ Active support via Discord
+- ✅ Regular updates and improvements
 
 ---
 
 ### ⚡ Quantum Projects
-Innovative tools and systems for RedM development and server management.
 
-<table>
-<tr>
-<td width="50%">
+**Innovative tools and systems for RedM development and server management.**
 
-#### 🛠️ QC-DevTools
-**Comprehensive Development Framework**
-- Modern React NUI interface
-- Global search system
-- Module architecture
-- Entity scanner & info
-- Admin management suite
-- Clipboard integration
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🛠️ **QC-DevTools** | Comprehensive Development Framework | Lua, React, JavaScript |
+| ⚖️ **QC-AdvancedLaw** | Advanced Law Enforcement System | Lua, React, MySQL |
 
-*Tech: Lua, React, JavaScript*
-
-**Features:**
+**QC-DevTools Features:**
 - 🎨 Ped Decals & Effects
 - 💥 Explosion Testing
 - 🔊 Audio System Testing
@@ -191,39 +122,19 @@ Innovative tools and systems for RedM development and server management.
 - ✨ PTFX Effects
 - 👥 Player Management
 
-</td>
-<td width="50%">
-
-#### ⚖️ QC-AdvancedLaw
-**Advanced Law Enforcement System**
-- Comprehensive arrest system
-- Evidence management
-- Court & trial mechanics
-- Fine & sentencing system
-- Multi-version iterations
-- Production-ready
-
-*Tech: Lua, React, MySQL*
-
-**Versions:**
+**QC-AdvancedLaw Versions:**
 - v1.0.0 - Initial Release
 - v2.0 - Enhanced Features
 - v4 - Cuffs System
 - v6 - Minigame Integration
 - v7 - Latest Stable
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## 💼 Development Expertise
 
-<div align="center">
-
-| **Specialization** | **Experience** | **Key Skills** |
-|:------------------:|:--------------:|:--------------|
+| Specialization | Experience | Key Skills |
+|----------------|------------|-------------|
 | 🎮 **RedM Development** | ⭐⭐⭐⭐⭐ | RSG Framework, Lua 5.4, Native Functions, ox_lib |
 | ⚛️ **Frontend Development** | ⭐⭐⭐⭐ | React, JavaScript, HTML5, CSS3, Modern UI/UX |
 | 🗄️ **Backend Development** | ⭐⭐⭐⭐ | Node.js, Express, oxmysql, Database Design |
@@ -231,17 +142,9 @@ Innovative tools and systems for RedM development and server management.
 | 🗃️ **Database Management** | ⭐⭐⭐⭐ | MySQL, MariaDB, Query Optimization, Schema Design |
 | 🎨 **UI/UX Design** | ⭐⭐⭐⭐ | NUI Interfaces, React Components, User Experience |
 
-</div>
-
 ---
 
 ## 📈 Contribution Activity
-
-<!--START_SECTION:activity-->
-<!-- This section will be automatically updated by GitHub Actions if configured -->
-<!--END_SECTION:activity-->
-
-<div align="center">
 
 ### 📅 Current Focus (2025)
 
@@ -257,23 +160,21 @@ Innovative tools and systems for RedM development and server management.
 - Create developer documentation
 - Foster community collaboration
 
-</div>
-
 ---
 
 ## 🎓 Code Philosophy
 
 ```lua
 --[[
-    Clean Code | Security First | Performance Optimized
+  Clean Code | Security First | Performance Optimized
 
-    My development principles:
-    ✓ Server-side validation always
-    ✓ Modular and maintainable architecture
-    ✓ Comprehensive error handling
-    ✓ Performance-conscious design
-    ✓ Community-focused development
-    ✓ Open source collaboration
+  My development principles:
+  ✓ Server-side validation always
+  ✓ Modular and maintainable architecture
+  ✓ Comprehensive error handling
+  ✓ Performance-conscious design
+  ✓ Community-focused development
+  ✓ Open source collaboration
 ]]
 ```
 
@@ -293,12 +194,16 @@ Innovative tools and systems for RedM development and server management.
 
 ## 🤝 Let's Connect!
 
-<div align="center">
-
 I'm always open to collaborating on exciting projects, discussing game development, or helping with RedM/FiveM scripting!
 
 **📧 Email:** [test221777@gmail.com](mailto:test221777@gmail.com)
 **💬 Discord:** [Join My Server](https://discord.gg/pbDSmkYCCS)
+
+### 🛒 KK-Scripts Shop
+
+**Get premium RedM scripts on Tebex:**
+
+[![Tebex Shop](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://kong-shop.tebex.io)
 
 ### Support My Work
 
@@ -309,93 +214,58 @@ If you find my projects helpful, consider:
 - 💬 Joining the Discord community
 - 📢 Sharing with others
 
-</div>
-
 ---
 
 ## 📚 Latest Blog Posts & Resources
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section can be automatically updated with your blog posts -->
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ## 🎯 Project Statistics
 
-<div align="center">
-
-```text
-📦 Total Repositories        →  20+
-⭐ Total Stars Earned        →  Growing
-🔱 Active Projects           →  Quantum Projects, KK-Scripts
-💻 Lines of Code Written     →  50,000+
-🎮 RedM Scripts Deployed     →  15+
-⚛️ React Components Built   →  100+
-🗄️ Database Schemas Created →  30+
 ```
-
-</div>
+📦 Total Repositories → 20+
+⭐ Total Stars Earned → Growing
+🔱 Active Projects → Quantum Projects, KK-Scripts
+💻 Lines of Code Written → 50,000+
+🎮 RedM Scripts Deployed → 15+
+⚛️ React Components Built → 100+
+🗄️ Database Schemas Created → 30+
+```
 
 ---
 
 ## 🔧 Current Tech Stack Deep Dive
 
 <details>
-<summary><b>🎮 Game Development Stack</b></summary>
+<summary>🎮 Game Development Stack</summary>
 
-### RedM/FiveM Development
-- **Core Framework:** RSG Framework (GNU GPL v3.0)
-- **UI Library:** ox_lib (menus, notifications, progress bars)
-- **Database:** oxmysql (async/await patterns)
-- **Target System:** ox_target (interaction zones)
-- **Voice:** pma-voice (proximity voice chat)
-- **Language:** Lua 5.4 (latest features)
-
-### Native Functions & APIs
-- RDR3 Native Functions
-- CFX API Integration
-- Entity Management
-- Networked Events
-- State Bags
+- **RSG Framework** - Core RedM framework
+- **Lua 5.4** - Server-side scripting
+- **ox_lib** - Modern UI library
+- **oxmysql** - Database operations
+- **Native Functions** - Game engine integration
 
 </details>
 
 <details>
-<summary><b>⚛️ Frontend Development Stack</b></summary>
+<summary>⚛️ Frontend Development Stack</summary>
 
-### React Ecosystem
-- React 18+ (latest features)
-- React Hooks (useState, useEffect, useContext)
-- Component Architecture
-- State Management
-- Event Handling
-
-### UI/UX Tools
-- Modern CSS3 (Flexbox, Grid)
-- Responsive Design
-- Animation Libraries
-- Icon Systems (Font Awesome)
-- Color Theory & Design
+- **React** - UI framework
+- **TypeScript** - Type safety
+- **Tailwind CSS** - Styling
+- **Framer Motion** - Animations
+- **Vite** - Build tool
 
 </details>
 
 <details>
-<summary><b>🗄️ Backend Development Stack</b></summary>
+<summary>🗄️ Backend Development Stack</summary>
 
-### Server-Side Technologies
-- Node.js Runtime
-- Express.js Framework
-- RESTful API Design
-- Async/Await Patterns
-- Error Handling Middleware
-
-### Database Management
-- MySQL/MariaDB
-- Query Optimization
-- Schema Design
-- Migrations
-- Data Validation
+- **Node.js** - Runtime environment
+- **Express.js** - Web framework
+- **MySQL/MariaDB** - Databases
+- **REST APIs** - API design
+- **Authentication** - Security
 
 </details>
 
@@ -418,8 +288,6 @@ console.log('Always learning, always growing! 🚀');
 
 ## 🎨 Creative Projects Showcase
 
-<div align="center">
-
 ### 🌈 Project Themes & Aesthetics
 
 | Project | Theme | UI Style |
@@ -429,35 +297,24 @@ console.log('Always learning, always growing! 🚀');
 | QC-DevTools | 🛠️ Developer Tools | Modern, Tech-Focused, Efficient |
 | QC-AdvancedLaw | ⚖️ Justice System | Formal, Organized, Authoritative |
 
-</div>
-
 ---
 
 ## 📜 Code Snippet Gallery
 
 <details>
-<summary><b>💎 RSG Framework Pattern</b></summary>
+<summary>💎 RSG Framework Pattern</summary>
 
 ```lua
--- Professional RSG script initialization
-fx_version 'cerulean'
-rdr3_warning 'I acknowledge that this is a prerelease build of RedM'
-game 'rdr3'
-lua54 'yes'
-
--- Core initialization
+-- RSG Framework Pattern
 local RSGCore = exports['rsg-core']:GetCoreObject()
 
--- Event-driven architecture
-RegisterNetEvent('script:server:processAction', function(data)
+-- Server-side event
+RegisterNetEvent('kk-script:server:doSomething', function()
     local src = source
     local Player = RSGCore.Functions.GetPlayer(src)
 
-    if not Player then return end
-
-    -- Server-side validation
-    if isValid(data) then
-        Player.Functions.AddMoney('cash', reward, 'action-reward')
+    if Player then
+        -- Your logic here
     end
 end)
 ```
@@ -465,47 +322,38 @@ end)
 </details>
 
 <details>
-<summary><b>⚛️ React NUI Component</b></summary>
+<summary>⚛️ React NUI Component</summary>
 
-```javascript
-// Modern React component for RedM
+```jsx
 import React, { useState, useEffect } from 'react';
+import { fetchNui } from './utils/fetchNui';
 
-const DevToolsMenu = ({ data }) => {
-    const [isVisible, setIsVisible] = useState(false);
+const KKComponent = () => {
+  const [data, setData] = useState(null);
 
-    useEffect(() => {
-        const handleMessage = (event) => {
-            if (event.data.action === 'openMenu') {
-                setIsVisible(true);
-            }
-        };
+  useEffect(() => {
+    fetchNui('kk-script:getData').then(setData);
+  }, []);
 
-        window.addEventListener('message', handleMessage);
-        return () => window.removeEventListener('message', handleMessage);
-    }, []);
-
-    return (
-        <div className={`menu-container ${isVisible ? 'visible' : ''}`}>
-            {/* Modern UI components */}
-        </div>
-    );
+  return (
+    <div className="kk-container">
+      {/* Your UI here */}
+    </div>
+  );
 };
 
-export default DevToolsMenu;
+export default KKComponent;
 ```
 
 </details>
 
 ---
 
-<div align="center">
-
 ## 💫 "Code with purpose, build with passion, share with the community"
 
 ### 🙏 Thank you for visiting my profile!
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,20,24&height=100&section=footer&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,0,5,10,5,10&height=200&section=footer&text=Thank+You!&fontSize=50&fontColor=fff&animation=twinkling" alt="Footer" />
 
 ---
 
@@ -515,6 +363,15 @@ export default DevToolsMenu;
 
 ---
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<div align="center">
+
+**Made with ❤️ by King Kong**
+
+[![GitHub followers](https://img.shields.io/github/followers/BigPapaBear2217?style=social)](https://github.com/BigPapaBear2217)
+[![GitHub stars](https://img.shields.io/github/stars/BigPapaBear2217?style=social)](https://github.com/BigPapaBear2217)
 
 </div>
+
+---
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Bottom Header" />
